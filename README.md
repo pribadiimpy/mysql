@@ -1,6 +1,6 @@
 # mysql
 Learn MySQL
 
-Sample Database
-mysqlsampledatabase.zip 
-Source from https://www.mysqltutorial.org/mysql-sample-database.aspx/
+<b>Sample Database</b>
+mysqlsampledatabase.zip<br>
+Source from https://www.mysqltutorial.org/mysql-sample-database.aspx/<br>
